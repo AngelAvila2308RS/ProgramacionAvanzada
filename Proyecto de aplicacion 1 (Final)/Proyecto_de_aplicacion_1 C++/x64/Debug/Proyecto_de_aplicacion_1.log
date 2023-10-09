@@ -1,0 +1,71 @@
+﻿  CD.cpp
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(28,6): error C2182: 'cargarRespaldos': este uso de 'void' no es válido
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(28,22): error C2065: 'CD': identificador no declarado
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(28,25): error C2146: error de sintaxis: falta ')' delante del identificador 'listaCDs'
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(28,51): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(28,51): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(71,5): error C2065: 'CD': identificador no declarado
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(71,8): error C2146: error de sintaxis: falta ';' delante del identificador 'listaCDs'
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(71,8): error C2065: 'listaCDs': identificador no declarado
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(74,10): error C2182: 'cargarRespaldos': este uso de 'void' no es válido
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(74,26): error C2065: 'CD': identificador no declarado
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(74,29): error C2146: error de sintaxis: falta ')' delante del identificador 'listaCDs'
+  PlayList.cpp
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(28,6): error C2182: 'cargarRespaldos': este uso de 'void' no es válido
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(28,22): error C2065: 'CD': identificador no declarado
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(28,25): error C2146: error de sintaxis: falta ')' delante del identificador 'listaCDs'
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(28,51): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(28,51): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(71,5): error C2065: 'CD': identificador no declarado
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(71,8): error C2146: error de sintaxis: falta ';' delante del identificador 'listaCDs'
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(71,8): error C2065: 'listaCDs': identificador no declarado
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(74,10): error C2182: 'cargarRespaldos': este uso de 'void' no es válido
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(74,26): error C2065: 'CD': identificador no declarado
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(74,29): error C2146: error de sintaxis: falta ')' delante del identificador 'listaCDs'
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(25,11): error C2374: 'MAXCDCOUNT': nueva definición; inicialización múltiple
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(25,11): message : vea la declaración de 'MAXCDCOUNT'
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(26,11): error C2374: 'MAXSONGCOUNT': nueva definición; inicialización múltiple
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(26,11): message : vea la declaración de 'MAXSONGCOUNT'
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(28,6): error C2365: 'cargarRespaldos': nueva definición; la definición anterior era 'variable de datos'
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(28,6): message : vea la declaración de 'cargarRespaldos'
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(35,32): error C2653: 'filesystem': no es un nombre de clase o espacio de nombres
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(35,5): error C2530: 'archivo': se deben inicializar las referencias
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(35,5): error C3531: 'archivo': un símbolo cuyo tipo contiene 'auto' debe tener un inicializador
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(35,30): error C2143: error de sintaxis: falta ';' delante de ':'
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(35,44): error C3861: 'directory_iterator': no se encontró el identificador
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(35,75): error C2143: error de sintaxis: falta ';' delante de ')'
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(69,5): error C2084: la función 'int main(void)' ya tiene un cuerpo
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(69,5): message : vea la definición anterior de 'main'
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(74,10): error C2373: 'cargarRespaldos': nueva definición; modificadores de tipo distintos
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(28,6): message : vea la declaración de 'cargarRespaldos'
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\PlayList.h(20,27): error C2065: 'MAX_SONG_COUNT': identificador no declarado
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\PlayList.cpp(8,50): error C3863: el tipo de matriz 'Song [0]' no es asignable
+  Proyecto_de_aplicacion_1.cpp
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(28,6): error C2182: 'cargarRespaldos': este uso de 'void' no es válido
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(28,22): error C2065: 'CD': identificador no declarado
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(28,25): error C2146: error de sintaxis: falta ')' delante del identificador 'listaCDs'
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(28,51): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(28,51): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(71,5): error C2065: 'CD': identificador no declarado
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(71,8): error C2146: error de sintaxis: falta ';' delante del identificador 'listaCDs'
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(71,8): error C2065: 'listaCDs': identificador no declarado
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(74,10): error C2182: 'cargarRespaldos': este uso de 'void' no es válido
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(74,26): error C2065: 'CD': identificador no declarado
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(74,29): error C2146: error de sintaxis: falta ')' delante del identificador 'listaCDs'
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(25,11): error C2374: 'MAXCDCOUNT': nueva definición; inicialización múltiple
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(25,11): message : vea la declaración de 'MAXCDCOUNT'
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(26,11): error C2374: 'MAXSONGCOUNT': nueva definición; inicialización múltiple
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(26,11): message : vea la declaración de 'MAXSONGCOUNT'
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(28,6): error C2365: 'cargarRespaldos': nueva definición; la definición anterior era 'variable de datos'
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(28,6): message : vea la declaración de 'cargarRespaldos'
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(35,32): error C2653: 'filesystem': no es un nombre de clase o espacio de nombres
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(35,5): error C2530: 'archivo': se deben inicializar las referencias
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(35,5): error C3531: 'archivo': un símbolo cuyo tipo contiene 'auto' debe tener un inicializador
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(35,30): error C2143: error de sintaxis: falta ';' delante de ':'
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(35,44): error C3861: 'directory_iterator': no se encontró el identificador
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(35,75): error C2143: error de sintaxis: falta ';' delante de ')'
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(69,5): error C2084: la función 'int main(void)' ya tiene un cuerpo
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(69,5): message : vea la definición anterior de 'main'
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(74,10): error C2373: 'cargarRespaldos': nueva definición; modificadores de tipo distintos
+C:\Users\USUARIO\source\repos\Proyecto_de_aplicacion_1 (avances)\Proyecto_de_aplicacion_1.cpp(28,6): message : vea la declaración de 'cargarRespaldos'
+  Generando código...
